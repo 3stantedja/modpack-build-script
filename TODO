@@ -1,0 +1,8 @@
+- Decide if to use Python or shell scripting (includes bash, PowerShell, batch files)
+- Figure out how to easily pull values for variables from a text file
+    - Alternatively, tell users to set environmental variables instead
+- Figure out if we want to "front-end" Git or not.
+    - I'm currently leaning towards no because a lot of the work is done by Git.
+    - I don't think I should duplicate work that has been done by Git.
+- Figure out how to publish the build files.
+    - Find out if build directory for compiled jars are in the same location for both Forge and Fabric.
